@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently looking for a job in the IT industry<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Laravel and Flutter to create a mobile app<br>⚡ Fun fact: I am a very positive person, and I mean very positive.
+🔭 I'm currently looking for a job in the IT industry<br>🤝 I’m looking for building connection.<br>🌱 I’m currently learning Laravel and Flutter to create a mobile app<br>⚡ One fact about me: I am a very positive person, and I work well with others.
 
 
 ## 🌐 Socials:
